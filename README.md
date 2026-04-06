@@ -35,9 +35,7 @@ A backend application for managing financial records, user roles, and dashboard 
 ## Postman Collection
 
 All APIs are available in this Postman collection for testing:
-
-[Download Collection](postman/FinanceBackend.postman_collection.json)
-
+Check Postman Folder
 ## Setup Instructions
 
 1. Clone the repository:
