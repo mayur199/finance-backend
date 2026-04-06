@@ -3,12 +3,12 @@
     "_postman_id": "44108d6f-e2f9-4b04-8dcb-727a556b8a73",
     "name": "Finance Dashboard Backend",
     "description": "APIs for Finance Dashboard Backend Project",
-    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "12416314"
   },
   "item": [
     {
       "name": "Create Record (ADMIN)",
-      "id": "095410ed-f469-4cc8-ada5-e43c453c6d5c",
       "request": {
         "method": "POST",
         "header": [
@@ -43,7 +43,6 @@
     },
     {
       "name": "Get All Records (ANALYST)",
-      "id": "8b284b42-58cb-4add-91b3-b37083a33efd",
       "request": {
         "method": "GET",
         "header": [],
@@ -69,7 +68,6 @@
     },
     {
       "name": "Delete Record (ADMIN)",
-      "id": "3edcc750-13d3-4b42-8410-0b351348b799",
       "request": {
         "method": "DELETE",
         "header": [],
@@ -96,7 +94,6 @@
     },
     {
       "name": "Filter by Type",
-      "id": "434152fa-9288-4f78-82d1-006a087f6436",
       "request": {
         "method": "GET",
         "header": [],
@@ -127,7 +124,6 @@
     },
     {
       "name": "Filter by Category",
-      "id": "d9bd57bc-c3c8-4989-9139-5a56ddd3bbb9",
       "request": {
         "method": "GET",
         "header": [],
@@ -158,7 +154,6 @@
     },
     {
       "name": "Filter by Type + Category",
-      "id": "137d4844-7b69-4312-9ee8-96a43ecccf08",
       "request": {
         "method": "GET",
         "header": [],
@@ -193,7 +188,6 @@
     },
     {
       "name": "Dashboard Summary",
-      "id": "6eb80b63-8c19-42ea-a96c-8620b6cc2ab4",
       "request": {
         "method": "GET",
         "header": [],
@@ -220,7 +214,6 @@
     },
     {
       "name": "Unauthorized Access",
-      "id": "f4b1bac0-1772-410c-b6c0-4795060a70ae",
       "request": {
         "method": "POST",
         "header": [],
@@ -255,7 +248,6 @@
     },
     {
       "name": "Validation Test",
-      "id": "024e7027-a398-4b79-ada7-82a4dd7d944d",
       "request": {
         "method": "POST",
         "header": [],
@@ -273,7 +265,6 @@
     },
     {
       "name": "Viewer Access Block",
-      "id": "a7c5b6ee-60f5-4dec-97a7-8f20e7aca867",
       "request": {
         "method": "GET",
         "header": []
@@ -282,7 +273,6 @@
     },
     {
       "name": "Update Record",
-      "id": "cb598b7d-9430-423b-85e3-570855ef3be2",
       "request": {
         "method": "PUT",
         "header": [],
@@ -318,7 +308,6 @@
     },
     {
       "name": "Filter All",
-      "id": "907a35b1-abd5-478e-ad65-2e4386da222f",
       "request": {
         "method": "GET",
         "header": []
@@ -327,7 +316,6 @@
     },
     {
       "name": "Dashboard with Viewer",
-      "id": "295cf979-b6ef-48f8-8676-d8c6f18da561",
       "request": {
         "method": "GET",
         "header": []
@@ -336,7 +324,6 @@
     },
     {
       "name": "Create users",
-      "id": "fa174eee-3c89-440a-b2a1-c0613436e710",
       "request": {
         "method": "POST",
         "header": [],

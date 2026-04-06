@@ -1,0 +1,8 @@
+$kind: http-request
+url: http://localhost:8080/records/filter?type=EXPENSE&category=Food&role=ANALYST
+method: GET
+queryParams:
+  type: EXPENSE
+  category: Food
+  role: ANALYST
+order: 6000

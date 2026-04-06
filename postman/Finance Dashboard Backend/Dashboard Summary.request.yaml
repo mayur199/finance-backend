@@ -1,0 +1,6 @@
+$kind: http-request
+url: http://localhost:8080/dashboard/summary?role=ANALYST
+method: GET
+queryParams:
+  role: ANALYST
+order: 7000

@@ -1,0 +1,19 @@
+$kind: http-request
+url: http://localhost:8080/records?role=VIEWER
+method: POST
+queryParams:
+  role: VIEWER
+body:
+  type: json
+  content: "{\r
+
+    \  \"amount\": 1000,\r
+
+    \  \"type\": \"INCOME\",\r
+
+    \  \"category\": \"Bonus\",\r
+
+    \  \"date\": \"2026-04-06\"\r
+
+    }"
+order: 8000

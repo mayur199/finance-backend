@@ -1,0 +1,7 @@
+$kind: http-request
+url: http://localhost:8080/records/filter?type=INCOME&role=ANALYST
+method: GET
+queryParams:
+  type: INCOME
+  role: ANALYST
+order: 4000

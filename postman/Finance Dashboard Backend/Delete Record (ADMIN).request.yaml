@@ -1,0 +1,6 @@
+$kind: http-request
+url: http://localhost:8080/records/1?role=ADMIN
+method: DELETE
+queryParams:
+  role: ADMIN
+order: 3000

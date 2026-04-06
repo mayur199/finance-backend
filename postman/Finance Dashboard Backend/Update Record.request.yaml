@@ -1,0 +1,19 @@
+$kind: http-request
+url: http://localhost:8080/records/1?role=ADMIN
+method: PUT
+queryParams:
+  role: ADMIN
+body:
+  type: json
+  content: "{\r
+
+    \  \"amount\": 7000,\r
+
+    \  \"type\": \"INCOME\",\r
+
+    \  \"category\": \"Updated Salary\",\r
+
+    \  \"date\": \"2026-04-06\"\r
+
+    }"
+order: 11000

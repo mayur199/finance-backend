@@ -1,0 +1,18 @@
+$kind: http-request
+url: http://localhost:8080/records?role=ADMIN
+method: POST
+headers:
+  Content-Type: application/json
+queryParams:
+  role: ADMIN
+body:
+  type: text
+  content: |-
+    {
+      "amount": 5000,
+      "type": "INCOME",
+      "category": "Salary",
+      "date": "2026-04-06",
+      "notes": "Monthly salary"
+    }
+order: 1000
