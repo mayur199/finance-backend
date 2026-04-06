@@ -30,7 +30,13 @@ A backend application for managing financial records, user roles, and dashboard 
 
 - **Backend:** Java, Spring Boot  
 - **Database:** MySQL  
-- **Tools:** Eclipse/STS, Postman  
+- **Tools:** Eclipse/STS, Postman
+- 
+## Postman Collection
+
+All APIs are available in this Postman collection for testing:
+
+[Download Collection](postman/FinanceBackend.postman_collection.json)
 
 ## Setup Instructions
 
