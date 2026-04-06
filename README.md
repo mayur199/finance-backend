@@ -2,8 +2,6 @@
 
 A backend application for managing financial records, user roles, and dashboard summaries. Built with **Spring Boot** and **MySQL**, this project demonstrates proper **API design**, **role-based access control**, **data validation**, and **CRUD operations** for financial data.
 
----
-
 ## Features
 
 - **User and Role Management**
@@ -28,15 +26,11 @@ A backend application for managing financial records, user roles, and dashboard 
 - **Data Persistence**
   - MySQL database
 
----
-
 ## Technology Stack
 
 - **Backend:** Java, Spring Boot  
 - **Database:** MySQL  
 - **Tools:** Eclipse/STS, Postman  
-
----
 
 ## Setup Instructions
 
